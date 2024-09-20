@@ -24,7 +24,7 @@ The Resume Tailoring Expert is a web application that uses artificial intelligen
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/resume-tailoring-expert.git
+   git clone https://github.com/your-username/GenAI_Resume-Tailoring-Expert.git
    cd resume-tailoring-expert
    ```
 
